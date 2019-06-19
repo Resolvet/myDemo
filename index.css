@@ -8,3 +8,7 @@ li{
 a{
     text-decoration: none;
 }
+.box{
+    width: 100px;
+    height: 100px;
+}
