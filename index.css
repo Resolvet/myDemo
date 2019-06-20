@@ -23,6 +23,9 @@ div{
     position: absolute;
 }
 
+span{
+    cursor: pointer;
+}
 input{
     user-select: none;
     width: 100%;
