@@ -22,3 +22,11 @@ div{
     height: 100px;
     position: absolute;
 }
+
+span{
+    display: inline-block;
+}
+span::before{
+    width: 10px;
+    height: 20px;
+}
